@@ -493,3 +493,8 @@ ul {
     color: var(--bg-color-seconed-2);
 }
 
+@media screen and (max-width: 520px) {
+    .footer ul li a {
+        font-size: 18px;
+    }
+}
